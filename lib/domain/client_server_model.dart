@@ -1,0 +1,4 @@
+enum ClientServerModel{
+  client,
+  server
+}
